@@ -14,6 +14,8 @@ public class Main {
         System.out.println("obj1 = " + obj1 + " obj2 = " + obj2);
         obj1.setNum(3);
         System.out.println("obj1 = " + obj1 + " obj2 = " + obj2);
+        obj2.setNum(4);
+        System.out.println("obj1 = " + obj1 + " obj2 = " + obj2);
 
 
     }
