@@ -1,0 +1,6 @@
+Nó em java.
+Nó é frequentemente usado em estruturas de dados como listas encadeadas e árvores. Um nó é um objeto que contém dados e
+uma referência a outro nó. O encadeamento de nós ocorre quando você conecta esses nós por meio de suas referências,
+formando uma estrutura de dados como uma lista encadeada, onde cada nó aponta para o proximo nó na sequência. Isso permite
+a construção de estruturas de dados flexíveis e dinâmicas, onde os elementos podem ser adicionados ou removidos facilmente,
+mantendo uma ordem específica.
