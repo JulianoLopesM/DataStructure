@@ -1,0 +1,12 @@
+Diferença de atribuição entre primitivos e objetos
+
+Primitivos: Em tipos primitivios, quando você atribui o valor de uma variavel a outra, você está copiando o valor real
+armazenado na variável de origem para a variável de destino, isso significa que as duas variáveis agora têm cópias
+independentes do valor, e alterar uma não afetará a outra, como foi dada o exemplo, mesmo eu mundando o valor de A, B
+continuou valendo 1, pois foi feita apenas uma cópia na memória.
+
+Objetos: Nos objetos existe a referencia compartilhada, quando eu atribuo uma variável a outra, eu estou copiando uma
+referencia ao objeto, e não o objeto em si. Iss o significa que ambas as variáveis agora apontam para o MESMO objeto na
+memória, diferente do tipo primitivo, onde é criado um CÓPIA na memoria, sendo dois "seres" existentes, e não apenas 1,
+como é o caso do objeto. Portanto, alterar o objeto atraves de uma das variaveis afetará o objeto acessado pela outra
+variavel, pois compartilham de uma mesma referencia ao objeto na memória.
