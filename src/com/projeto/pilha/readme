@@ -1,0 +1,10 @@
+
+Em Java, os métodos top, push e pop estão relacionados com a manipulação de uma pilha (stack) em estruturas de dados do tipo Stack ou Deque.
+
+push: Este método é usado para inserir um elemento no topo da pilha.
+
+pop: Ele remove e retorna o elemento no topo da pilha.
+
+top (também conhecido como peek): Retorna o elemento no topo da pilha sem removê-lo.
+
+Esses métodos são frequentemente utilizados para implementar uma estrutura de dados de pilha, onde o último elemento inserido é o primeiro a ser removido (princípio conhecido como "last in, first out" - LIFO).
