@@ -1,0 +1,9 @@
+Em Java, os métodos first, enqueue e dequeue estão relacionados com a manipulação de uma fila (queue) em estruturas de dados como Queue ou Deque.
+
+enqueue: Este método é usado para adicionar um elemento ao final da fila.
+
+dequeue: Ele remove e retorna o elemento na frente da fila.
+
+first (também conhecido como peek): Retorna o elemento na frente da fila sem removê-lo.
+
+Esses métodos são usados para implementar uma estrutura de dados de fila, onde o primeiro elemento inserido é o primeiro a ser removido (princípio conhecido como "first in, first out" - FIFO).
